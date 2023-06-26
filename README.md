@@ -1,6 +1,18 @@
 # 3D 颈缘线识别
 
+### 结果
 
+控制台
+
+![image-20210817113843223](README.assets/image-20210817113843223.png)
+
+窗口一
+
+![image-20210817113802447](README.assets/image-20210817113802447.png)
+
+窗口二
+
+![image-20210817113824829](README.assets/image-20210817113824829.png)
 
 ## 	文件树
 
@@ -26,19 +38,7 @@
 
 `python main.py`
 
-### 结果
 
-控制台
-
-![image-20210817113843223](README.assets/image-20210817113843223.png)
-
-窗口一
-
-![image-20210817113802447](README.assets/image-20210817113802447.png)
-
-窗口二
-
-![image-20210817113824829](README.assets/image-20210817113824829.png)
 
 ## 设计思路
 
